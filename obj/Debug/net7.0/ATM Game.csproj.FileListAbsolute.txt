@@ -1,0 +1,15 @@
+E:\C#\ATM Game\bin\Debug\net7.0\ATM Game.exe
+E:\C#\ATM Game\bin\Debug\net7.0\ATM Game.deps.json
+E:\C#\ATM Game\bin\Debug\net7.0\ATM Game.runtimeconfig.json
+E:\C#\ATM Game\bin\Debug\net7.0\ATM Game.dll
+E:\C#\ATM Game\bin\Debug\net7.0\ATM Game.pdb
+E:\C#\ATM Game\obj\Debug\net7.0\ATM Game.csproj.AssemblyReference.cache
+E:\C#\ATM Game\obj\Debug\net7.0\ATM Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ATM Game\obj\Debug\net7.0\ATM Game.AssemblyInfoInputs.cache
+E:\C#\ATM Game\obj\Debug\net7.0\ATM Game.AssemblyInfo.cs
+E:\C#\ATM Game\obj\Debug\net7.0\ATM Game.csproj.CoreCompileInputs.cache
+E:\C#\ATM Game\obj\Debug\net7.0\ATM Game.dll
+E:\C#\ATM Game\obj\Debug\net7.0\refint\ATM Game.dll
+E:\C#\ATM Game\obj\Debug\net7.0\ATM Game.pdb
+E:\C#\ATM Game\obj\Debug\net7.0\ATM Game.genruntimeconfig.cache
+E:\C#\ATM Game\obj\Debug\net7.0\ref\ATM Game.dll
